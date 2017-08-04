@@ -29,6 +29,7 @@ Deletes all your tweets, retweets and favorites.
         code twitterwipe.py
 
 - Copy these values from your created Twitter app and paste into `INSERT_HERE` placeholders in twitterwipe.py:
+
         consumer_key='INSERT_HERE',
         consumer_secret='INSERT_HERE',
         access_token_key='INSERT_HERE',
