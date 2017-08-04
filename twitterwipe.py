@@ -1,18 +1,5 @@
 #!/usr/bin/env python
 # encoding: utf-8
-"""
-Deletes all tweets, retweets and favorites.
-
-Installation:
-
-1/ pip install python-twitter
-2/ go to https://apps.twitter.com, sign up with your account and create a new app (the details can be bogus, your app will be private)
-3/ make sure the app has read, write permission and CLICK "Regenerate My Access Token and Token Secret" button (IMPORTANT)
-4/ copy consumer_key, consumer_secret, access_token_key and access_token_secret from your app to the placeholders below
-5/ run this with python 2: python twitterwipe.py
-
-Based on: https://github.com/olivierthereaux/oldtweets/blob/master/oldtweets.py
-"""
 
 import time
 import twitter
