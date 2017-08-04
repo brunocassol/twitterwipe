@@ -20,7 +20,7 @@ Deletes all your tweets, retweets and favorites.
 - Open https://apps.twitter.com
 - Sign up with your account.
 - Create a new app. The details can be bogus, your app will be private.
-- Make sure the app has read/write permission and click [Regenerate My Access Token and Token Secret] button. **This step is easy to miss**.
+- Make sure the app has read/write permission and click `Regenerate My Access Token and Token Secret` button. **This step is easy to miss**.
 
 5. Edit the downloaded twitterwipe.py file:
 
